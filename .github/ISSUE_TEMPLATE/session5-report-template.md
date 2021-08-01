@@ -1,7 +1,7 @@
 ---
 name: فرم گزارش آزمایش پنجم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
-title: Session 5Report
+title: Session 5 Report
 labels: documentation
 assignees: mhaghighat20
 
