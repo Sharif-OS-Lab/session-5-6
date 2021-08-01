@@ -19,10 +19,10 @@ Student No. of member 2: `[FILL HERE]`
 
 ### Section 5.3.1
 
-- [ ] Write the `Hello World!` prgram
+- [ ] Write the `Hello World!` program
     - [ ] `FILL HERE with your source code`
     
-- [ ] Write the `ls` to `wc` prgram
+- [ ] Write the `ls` to `wc` program
     - [ ] `FILL HERE with your source code`
 
 - [ ] Investigate how to have a bi-direction pipe
