@@ -76,7 +76,7 @@ ps -o user,vsz,rss,pmem,fname -e
 
 <div align='center'>
 
-![شمای کلی Pipe با یک پردازه](./image/6/6-1.jpg)
+![شمای کلی Pipe با یک پردازه](./image/6/6-1.JPG)
 
 </div>
 
