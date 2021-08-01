@@ -1,4 +1,4 @@
-<div dir="rtl" >
+<div dir="rtl" align='justify'>
 
 # آزمایش ۵ - ارتباط بین پردازه‌ای
 
