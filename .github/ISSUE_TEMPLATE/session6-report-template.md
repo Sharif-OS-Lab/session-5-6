@@ -3,7 +3,7 @@ name: فرم گزارش آزمایش ششم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
 title: Session 6 Report
 labels: documentation
-assignees: mhaghighat20
+assignees: AMshoka
 
 ---
 
