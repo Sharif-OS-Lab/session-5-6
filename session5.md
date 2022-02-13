@@ -128,6 +128,9 @@ int res = pipe(fd);
 توضیح دهید.
 
 SIGINT, SIGHUP, SIGSTP, SIGCONT, SIGKILL
+        
+- [Information about signals](https://en.wikipedia.org/wiki/Signal_(IPC))
+- [Nore information about Two signals: SIGSTOP and SIGCONT](https://major.io/2009/06/15/two-great-signals-sigstop-and-sigcont/)
 
 * یک سیگنال ساده، سیگنال Alarm (SIGALRM) است. به کمک 
 دستور `man` در مورد آن توضیح کوتاهی ارائه دهید.
