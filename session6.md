@@ -34,7 +34,7 @@ struct MyStruct {
     int a;
     int b;
     char name[20];
-}
+};
 ```
         
 </div>
