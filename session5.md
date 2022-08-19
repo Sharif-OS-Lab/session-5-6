@@ -127,7 +127,7 @@ int res = pipe(fd);
 در سیستم عامل لینوکس را ملاحظه کنید. سیگنال‌های زیر را
 توضیح دهید.
 
-SIGINT, SIGHUP, SIGSTP, SIGCONT, SIGKILL
+SIGINT, SIGHUP, SIGSTOP, SIGCONT, SIGKILL
         
 - [Information about signals](https://en.wikipedia.org/wiki/Signal_(IPC))
 - [Nore information about Two signals: SIGSTOP and SIGCONT](https://major.io/2009/06/15/two-great-signals-sigstop-and-sigcont/)
