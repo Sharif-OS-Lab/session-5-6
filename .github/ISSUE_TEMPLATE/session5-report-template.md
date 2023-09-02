@@ -35,7 +35,7 @@ Student No. of member 2: `[FILL HERE]`
 - [ ] Describe the usecase of different signals:
     1. [ ] `[FILL HERE with the description for SIGINT.]`
     1. [ ] `[FILL HERE with the description for SIGHUP.]`
-    1. [ ] `[FILL HERE with the description for SIGSTP.]`
+    1. [ ] `[FILL HERE with the description for SIGSTOP.]`
     1. [ ] `[FILL HERE with the description for SIGCONT.]`
     1. [ ] `[FILL HERE with the description for SIGKILL.]`
 
