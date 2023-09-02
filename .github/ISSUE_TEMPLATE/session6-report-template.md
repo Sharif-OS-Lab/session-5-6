@@ -40,8 +40,9 @@ Student No. of member 2: `[FILL HERE]`
     1. [ ] `[FILL HERE with screenshot of lld for another program]`
 
 - [ ] Getting started with addresses
-    1. [ ] `[FILL HERE with your description about etext]`
-    2. [ ] `[FILL HERE with your screenshots of given program analysis]`
-    3. [ ] `[FILL HERE with your screenshots of sbrk analysis]`
-    4. [ ] `[FILL HERE with your screenshots & code of heap growth analysis]`
+
+    1. [ ] `[FILL HERE with your screenshots of given program analysis]`
+    1. [ ] `[FILL HERE with your description about etext, the meaning of the comment, why using the term symbol, why using extern]`
+    1. [ ] `[FILL HERE with your screenshots of sbrk analysis and explanations]`
+    1. [ ] `[FILL HERE with your screenshots & code of heap growth analysis]`
 
